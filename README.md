@@ -1,21 +1,19 @@
 # AnonProxy2023 
-This is an anonymous proxy traffic dataset in Paper 《ProxyKiller: A Robust Graph Neural Network-Based Model for Anonymous Proxy Traffic Classification》. 
+This is an anonymous proxy traffic dataset in Paper 《ProxyKiller: An Anonymous Proxy Traffic Attack Model Based on Traffic Behavior Graphs》. 
 
-（1）The download links for all three datasets are as follows.
+（1）The download links for this dataset are as follows.
 
 Link: 
 
-https://pan.baidu.com/s/14zA-zdT3SOkeyuAOPHk-jQ 
+https://pan.baidu.com/s/1VQeqo0B7lf4_-n_RQFyGcw?pwd=ivd5 
 
-Access Code: tpnd.
+Access Code: ivd5.
 
 Specifically, the original link for the LFETT2021 dataset is as follows. 
 
 https://github.com/HoneyPotter-Gzy/LFETT2021-dataset
 
-（2）Model Code Usage Instructions： First, run DatasetGenerator.py to generate the dataset and then run ProxyKiller_Model.py for model training and testing.
-
-（3）The detailed features extracted in the paper are shown in the table below. 
+（2）The detailed features extracted in the paper are shown in the table below. 
 
 | ID      | Feature Name                | Directions            | Statistical Features         | Category        |
 | ------- | --------------------------- | --------------------- | ---------------------------- | --------------- |
